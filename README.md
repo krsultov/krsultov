@@ -1,16 +1,19 @@
-## Hi there 👋
+<a href="https://krumsultov.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sky-night.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/sky-dusk.png">
+    <img width="100%" src="assets/sky-dusk.png" alt="dithered cumulus from krumsultov.com">
+  </picture>
+</a>
 
-<!--
-**krsultov/krsultov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Krum Sultov
 
-Here are some ideas to get you started:
+I turn ideas into products that work as businesses, look right, and are built properly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>cs student at <a href="https://elsys-bg.org">TUES</a> · Sofia, Bulgaria</sub>
+
+```
+A:\> load krum ........ ok
+```
+
+[krumsultov.com](https://krumsultov.com) · [linkedin](https://www.linkedin.com/in/krumsultov)
